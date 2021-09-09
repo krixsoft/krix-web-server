@@ -1,3 +1,6 @@
 export * from './shared';
 
-export * from './web.server';
+export type { WebServer } from './web.server';
+export type { Router } from './router';
+
+export { kxWebModule } from './web.module';
