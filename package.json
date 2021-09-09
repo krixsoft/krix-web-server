@@ -63,5 +63,7 @@
     "webpack-bundle-analyzer": "^4.4.1",
     "webpack-cli": "^4.6.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "@krix/module": "^1.0.0"
+  }
 }
